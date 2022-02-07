@@ -1,0 +1,1 @@
+model.wv.most_similar(positive=['action'])
